@@ -13,4 +13,4 @@ container.register('UserPresenter', {useClass: UserPresenter})
 
 import { UserController } from "./usecase/users/UserController";
 var userController = new UserController();
-userController.AddNewUser('first', 'second', 'ysk.ikeda@gmail.com');
+userController.AddNewUser('first', 'second', 'aaaa@bbb.com');
