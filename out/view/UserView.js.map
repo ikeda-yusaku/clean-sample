@@ -1,0 +1,1 @@
+{"version":3,"file":"UserView.js","sourceRoot":"","sources":["../../src/view/UserView.ts"],"names":[],"mappings":";;;AAEA,MAAa,QAAQ;IACjB,WAAW,CAAC,SAAwB;QAChC,OAAO,CAAC,GAAG,CAAC,sCAAsC,EAAE,SAAS,CAAC,IAAI,EAAE,SAAS,CAAC,YAAY,CAAC,CAAC;IAChG,CAAC;CACJ;AAJD,4BAIC"}

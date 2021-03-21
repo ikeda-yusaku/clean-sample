@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.6.6",
+    "tsyringe": "^4.4.0"
+  }
+}
